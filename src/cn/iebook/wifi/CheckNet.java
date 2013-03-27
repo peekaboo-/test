@@ -3,6 +3,7 @@ package cn.iebook.wifi;
 public class CheckNet {
 
 	public void checkNet() {
+		System.out.println("aa");
 //		/* 判断客户端优选网络 */
 //		if (getFirstNet()) {
 //			logger.d("----....----.....---->>>first net is wifi");
