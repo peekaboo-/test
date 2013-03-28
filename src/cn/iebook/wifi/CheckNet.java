@@ -27,6 +27,7 @@ public class CheckNet {
 //				}
 //			} else {
 //				GlobalSetting.CURRENTNETTYPE = GlobalSetting.WAP;
+System.out.println("test");
 //				sendLogin();
 //			}
 //		} else {
