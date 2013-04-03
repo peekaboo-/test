@@ -5,6 +5,7 @@ public class CheckNet {
 	public void checkNet() {
 		System.out.println("aa");
 		System.out.println("bb");
+		System.out.println("bbbb");
 //		/* 判断客户端优选网络 */
 //		if (getFirstNet()) {
 //			logger.d("----....----.....---->>>first net is wifi");
