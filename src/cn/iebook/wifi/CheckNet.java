@@ -4,6 +4,7 @@ public class CheckNet {
 
 	public void checkNet() {
 		System.out.println("aa");
+		System.out.println("cccc");
 		System.out.println("bb");
 		System.out.println("bbbb");
 //		/* 判断客户端优选网络 */
